@@ -1,3 +1,3 @@
-# OpenSlides ... service
+# OpenSlides projector service
 
 Service for OpenSlides which ...
